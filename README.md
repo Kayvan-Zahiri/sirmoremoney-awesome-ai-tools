@@ -507,6 +507,7 @@ Artificial intelligence tools are software applications that utilize machine lea
 
 - [JobMirror](https://jobmirror.app) - AI career toolkit that provides resume review, job fit analysis, and document generation.
 - [Jobscan](https://www.jobscan.co/) - Resume and LinkedIn optimization with ATS keyword matching.
+- [ResumeAI](https://withresumeai.com/) - Free ATS resume checker (3/day anonymous, 10/day free account) and State of ATS 2026 dataset.
 - [Resume Worded](https://resumeworded.com/) - AI resume and LinkedIn feedback with score and targeted advice.
 - [Kickresume](https://www.kickresume.com/) - AI resume builder with templates and job matching.
 
